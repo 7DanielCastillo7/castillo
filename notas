@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main(int argc, char** argv ){
+	printf("SANTA FEd.\n" );
+	printf("CAMPEON\n");
+return 0;
+}
