@@ -33,7 +33,7 @@ int main(){
 
     
     short code;
-
+    
     std::cin>>code;
     switch (code)
     {
