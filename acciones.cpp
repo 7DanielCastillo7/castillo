@@ -10,7 +10,6 @@ public:
             for (int j=i+1; j<prices.size(); j++){
                 if (prices[j] - prices[i]> ganancia){  
                     ganancia= prices[j]-prices[i];
-
                 }
             }
         }
@@ -31,6 +30,5 @@ int main(){
     int ganancia = acciones.maxProfit(prices);  
     cout << "La ganancia maxima es: " << ganancia << endl;
   
-   
     return 0;
 }
