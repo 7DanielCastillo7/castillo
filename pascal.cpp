@@ -33,7 +33,7 @@ int main(){
             cout << resultado[i][j] << " ";
 
         }
-        cout << endl;
+    cout << endl;  
     }
 
     return 0;
